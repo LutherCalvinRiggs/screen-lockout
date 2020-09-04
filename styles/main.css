@@ -1,0 +1,67 @@
+:root {
+
+}
+
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+    font-family: 'font name', 'back up 1 font name', sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1.5;
+}
+
+@font-face {        /* Adds a Web Font to the CSS */
+    font-family: 'font name';
+    src: url(my-font.woff); /* relative path - file located in a folder on the server */
+    src: url(http://example.com/font/my-font.woff); /* absolute path */
+}
+
+body {
+
+}
+
+
+
+
+
+
+
+    @media screen and (max-width: 1375px){
+        
+    }
+
+    @media screen and (max-width: 1200px){
+        
+    }
+
+    @media screen and (max-width: 1050px){
+        
+    }
+
+    @media screen and (max-width: 875px){
+        
+    }            
+
+    @media screen and (max-width: 750px){
+        
+    }
+
+    @media screen and (max-width: 600px){
+        
+    }
+
+    @media screen and (max-width: 500px){
+        
+    } 
+    
+    @media screen and (max-width: 400px){
+    
+    }
+
+    @media screen and (max-width: 350px){
+        
+    }
